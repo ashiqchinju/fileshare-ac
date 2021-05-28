@@ -1,0 +1,7 @@
+.env
+# the below command will not push the files inside upload folder
+uploads/*
+# if a folder is empty github will not upload it. So used gitkeep to add it.
+!uploads/.gitkeep
+node_modules
+.DS_Store
