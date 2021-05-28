@@ -20,6 +20,7 @@
     top: 10px;
     left: 10px;
     width: 150px;
+    border-radius: 50% 20%;
   }
 section.download {
     background: #fff;
